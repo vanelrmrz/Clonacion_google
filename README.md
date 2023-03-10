@@ -1,4 +1,4 @@
-#Clonación de la intefaz de Google creado con HTML5 y CSS3 en el botcamp de Tecnolochicas PRO
+# Clonación de la intefaz de Google creado con HTML5 y CSS3 en el botcamp de Tecnolochicas PRO
 
 
 ## **ÍNDICE**
